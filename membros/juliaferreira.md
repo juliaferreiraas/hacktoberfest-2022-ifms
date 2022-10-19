@@ -8,4 +8,4 @@ terminando o ensino médio integrado com informática
 
 # cidade natal 
 
-Apucarana-PR  
+Apucarana-PR
