@@ -9,3 +9,7 @@ terminando o ensino médio integrado com informática
 # cidade natal 
 
 Apucarana-PR
+
+# idade 
+ 
+17 anos 
