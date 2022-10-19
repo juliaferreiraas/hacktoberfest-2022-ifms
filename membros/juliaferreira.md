@@ -13,3 +13,7 @@ Apucarana-PR
 # idade 
  
 17 anos 
+
+# cor favorita 
+
+preto
